@@ -877,9 +877,9 @@ erebus.book.smoothie.10=§9液体黄金\n\n§0生命之血 x2\n竹笋\n闪烁的
 erebus.book.smoothie.11=§9布鲁夫的酿造\n\n§0白蚁菇\n芜菁\n复眼\n心莓\n\n§d蜂蜜\n§d甲虫汁液\n§d抗毒药\n§d牛奶\n\n§4效果：\n巨大的效果
 erebus.book.smoothie.12=§9甜瓜\n\n§0西瓜片\n\n§d水\n\n§4效果：\n提神
 erebus.book.smoothie.13=§9闪烁的甜瓜\n\n§0闪烁的西瓜片\n\n§d水\n\n§4效果：\n小生命恢复
-erebus.book.smoothie.14=§9竹抗毒药桶\n\n§0竹桶\n\n§0荨麻叶 x2\n\n§0毒腺 x2\n\n§d甲虫汁\n\n§4效果：\n免疫中毒
-erebus.book.smoothie.15=§9抗毒药瓶\n\n§0玻璃瓶\n\n§0荨麻叶\n\n§0毒腺\n\n§d甲虫汁\n\n§4效果：\n免疫中毒
-erebus.book.smoothie.16=§9抗毒药桶\n\n§0桶\n\n§0荨麻叶 x2\n\n§0毒腺 x2\n\n§d甲虫汁\n\n§4效果：\n填满桶
+erebus.book.smoothie.14=§9竹抗毒药桶\n\n§0竹桶\n§0荨麻叶 x2\n§0毒腺 x2\n\n§d甲虫汁液\n\n§4效果：\n免疫中毒
+erebus.book.smoothie.15=§9抗毒药瓶\n\n§0玻璃瓶\n§0荨麻叶\n§0毒腺\n\n§d甲虫汁液\n\n§4效果：\n免疫中毒
+erebus.book.smoothie.16=§9抗毒药桶\n\n§0桶\n§0荨麻叶 x2\n§0毒腺 x2\n\n§d甲虫汁液\n\n§4效果：\n填满桶
 
 ################
 # Advancements #
