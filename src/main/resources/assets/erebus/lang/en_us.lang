@@ -17,7 +17,7 @@ item.erebus.materials.bio_velocity.name=Bio-Velocity
 item.erebus.materials.elastic_fibre.name=Elastic Fibre
 item.erebus.materials.wasp_sting.name=Wasp Sting
 item.erebus.materials.bamboo_shoot.name=Colossal Bamboo Shoot
-item.erebus.materials.red_gem.name=Redgem
+item.erebus.materials.red_gem.name=Red Gem
 item.erebus.materials.bio_luminescence.name=Bioluminescence
 item.erebus.materials.supernatural_velocity.name=Supernatural Velocity
 item.erebus.materials.altar_fragment.name=Altar Fragment
@@ -334,7 +334,7 @@ tile.erebus.planks_scorched.name=Scorched Planks
 tile.erebus.planks_varnished.name=Varnished Planks
 tile.erebus.planks_petrified_wood.name=Petrified Wood Planks
 
-# Slabs Plank 
+# Slabs Plank
 tile.erebus.slab_planks_baobab.name=Baobab Slab
 tile.erebus.slab_planks_eucalyptus.name=Eucalyptus Slab
 tile.erebus.slab_planks_mahogany.name=Mahogany Slab
@@ -455,9 +455,9 @@ tile.erebus.wall_umberpaver_mossy.name=Mossy Umberpaver Wall
 tile.erebus.wall_umberpaver_webbed.name=Webbed Umberpaver Wall
 
 # Plants
-tile.erebus.crop_turnip.name=Turnips
-tile.erebus.crop_cabbage.name=Cabbage
-tile.erebus.crop_mandrake.name=Mandrake
+tile.erebus.crop_turnip.name=Turnips Crop
+tile.erebus.crop_cabbage.name=Cabbage Crop
+tile.erebus.crop_mandrake.name=Mandrake Crop
 tile.erebus.heart_berry_bush.name=Heartberry Bush
 tile.erebus.jade_berry_bush.name=Jadeberry Bush
 tile.erebus.swamp_berry_bush.name=Swampberry Bush
@@ -557,7 +557,7 @@ tile.erebus.quick_sand.name=Quicksand
 tile.erebus.ghost_sand.name=Ghost sand
 tile.erebus.swamp_vent.name=Swamp Vent
 tile.erebus.gneiss_vent.name=Gneiss Vent
-tile.erebus.red_gem.red_gem.name=Red Gem
+tile.erebus.red_gem.red_gem.name=Red Gem Block
 tile.erebus.red_gem.red_lamp_off.name=Red Gem Lamp
 tile.erebus.red_gem.red_lamp_on.name=Red Gem Lamp
 tile.erebus.wither_web.name=Wither Web
@@ -844,7 +844,7 @@ tooltip.erebus.hornsummon=Summons some bees.
 tooltip.erebus.spraycan=Use on the top of blocks to keep those pesky critters away.
 tooltip.erebus.wandofpreservation=Shoots Amber stars and captures mobs. Silk touch the block to collect or break to free the mob.
 tooltip.erebus.webslinger=Can Shoot Webs if in your Inventory.
-tooltip.erebus.force_key= N.Y.I.
+tooltip.erebus.force_key=N.Y.I.
 
 ##########
 # Others #
@@ -863,23 +863,23 @@ key.erebus.beetlemine=Stag Beetle Dig
 # Smoothie Book #
 #################
 
-erebus.book.smoothie.0=\u00A70Thank you for using the new ErebusCo. Smoothie-matic 2000.\nIn the following pages you will find some delicious recipes.\n\nEach recipe will require a different base fluid. The fluid bars shown in the gui are for: Honey, Beetle Juice, Anti-Venom and Milk.
-erebus.book.smoothie.1=\u00A70Fluids can be added to the Smoothie-matic 2000 by right clicking on the block with a full bucket.\n\nThe Four top slots in the gui are for the required ingredients and the lower slot must contain a Smoothie Glass.
-erebus.book.smoothie.2=\u00A79Green Tea Grasshopper\n\n\u00A70Grasshopper Leg x2\nElastic Fibre\nFly Wing\n\n\u00A7dBeetle Juice\n\n\u00A74Effects:\nJumping
-erebus.book.smoothie.3=\u00A79Money Honey\n\n\u00A70Honey drip x2\nNectar\nGold Nugget\n\n\u00A7dHoney\n\n\u00A74Effects:\nRegeneration
-erebus.book.smoothie.4=\u00A79Darkness In The Middle\n\n\u00A70Cammo powder x2\nDark Fruit\nSwamp Berries\n\n\u00A7dBeetle Juice\n\n\u00A74Effects:\nInvisibility
-erebus.book.smoothie.5=\u00A79Green Giant\n\n\u00A70Repellent\nPoison Gland x2\nWasp Sting\n\n\u00A7dAnti-Venom\n\n\u00A74Effects:\nNegates Potions
-erebus.book.smoothie.6=\u00A79Seedy Goodness\n\n\u00A70Pumpkin Seeds\nMelon Seeds\nDark Fruit Seeds\nBio-Velocity\n\n\u00A7dBeetle Juice\n\n\u00A74Effects:\nDig Speed
-erebus.book.smoothie.7=\u00A79Givin' Me The Blues\n\n\u00A70Blue Bell Petal x2\nLapis Lazuli x2\n\n\u00A7dMilk\n\n\u00A74Effects:\nExtinguish
-erebus.book.smoothie.8=\u00A79Hot Hot Baby\n\n\u00A70Fire Bloom x2\nWasp Sting\nBog Maw Root\n\n\u00A7dAnti-Venom\n\n\u00A74Effects:\nStrength
-erebus.book.smoothie.9=\u00A79Don't Meddle With The Nettle\n\n\u00A70Nettle Leaf\nNettle Flower\nJade Berries\nExo Skeleton\n\n\u00A7dHoney\n\n\u00A74Effects:\nResistance
-erebus.book.smoothie.10=\u00A79Liquid Gold\n\n\u00A70Life Blood x2\nBamboo Shoot\nGlistering Melon\n\n\u00A7dMilk\n\n\u00A74Effects:\nSaturation
-erebus.book.smoothie.11=\u00A79Bryuf's Brew\n\n\u00A70Terpsishroom\nTurnip\nCompound Eyes\nHeart Berries\n\n\u00A7dHoney\n\u00A7dBeetle Juice\n\u00A7dAnti-Venom\n\u00A7dMilk\n\n\u00A74Effects:\nMighty Buffs
-erebus.book.smoothie.12=\u00A79Melonade\n\n\u00A70Melon Slice\n\n\u00A7dWater\n\n\u00A74Effects:\nRefreshing
-erebus.book.smoothie.13=\u00A79Sparkling Melonade\n\n\u00A70Glistening Melon Slice\n\n\u00A7dWater\n\n\u00A74Effects:\nSmall Regen
-erebus.book.smoothie.14=\u00A79Antivenom Bambucket\n\n\u00A70Bambucket\n\n\u00A70Nettle Leaves x2\n\n\u00A70Poison Glands x2\n\n\u00A7dBeetle Juice\n\n\u00A74Effects:\nImmunity to Poison
-erebus.book.smoothie.15=\u00A79Antivenom Bottle\n\n\u00A70Glass Bottle\n\n\u00A70Nettle Leaf\n\n\u00A70Poison Gland\n\n\u00A7dBeetle Juice\n\n\u00A74Effects:\nImmunity to Poison
-erebus.book.smoothie.16=\u00A79Antivenom Bucket\n\n\u00A70Bucket\n\n\u00A70Nettle Leaves x2\n\n\u00A70Poison Glands x2\n\n\u00A7dBeetle Juice\n\n\u00A74Effects:\nFilled Bucket
+erebus.book.smoothie.0=§0Thank you for using the new ErebusCo. Smoothie-matic 2000.\nIn the following pages you will find some delicious recipes.\n\nEach recipe will require a different base fluid. The fluid bars shown in the gui are for: Honey, Beetle Juice, Anti-Venom and Milk.
+erebus.book.smoothie.1=§0Fluids can be added to the Smoothie-matic 2000 by right clicking on the block with a full bucket.\n\nThe Four top slots in the gui are for the required ingredients and the lower slot must contain a Smoothie Glass.
+erebus.book.smoothie.2=§9Green Tea Grasshopper\n\n§0Grasshopper Leg x2\nElastic Fibre\nFly Wing\n\n§dBeetle Juice\n\n§4Effects:\nJumping
+erebus.book.smoothie.3=§9Money Honey\n\n§0Honey drip x2\nNectar\nGold Nugget\n\n§dHoney\n\n§4Effects:\nRegeneration
+erebus.book.smoothie.4=§9Darkness In The Middle\n\n§0Cammo powder x2\nDark Fruit\nSwamp Berries\n\n§dBeetle Juice\n\n§4Effects:\nInvisibility
+erebus.book.smoothie.5=§9Green Giant\n\n§0Repellent\nPoison Gland x2\nWasp Sting\n\n§dAnti-Venom\n\n§4Effects:\nNegates Potions
+erebus.book.smoothie.6=§9Seedy Goodness\n\n§0Pumpkin Seeds\nMelon Seeds\nDark Fruit Seeds\nBio-Velocity\n\n§dBeetle Juice\n\n§4Effects:\nDig Speed
+erebus.book.smoothie.7=§9Givin' Me The Blues\n\n§0Blue Bell Petal x2\nLapis Lazuli x2\n\n§dMilk\n\n§4Effects:\nExtinguish
+erebus.book.smoothie.8=§9Hot Hot Baby\n\n§0Fire Bloom x2\nWasp Sting\nBog Maw Root\n\n§dAnti-Venom\n\n§4Effects:\nStrength
+erebus.book.smoothie.9=§9Don't Meddle With The Nettle\n\n§0Nettle Leaf\nNettle Flower\nJade Berries\nExo Skeleton\n\n§dHoney\n\n§4Effects:\nResistance
+erebus.book.smoothie.10=§9Liquid Gold\n\n§0Life Blood x2\nBamboo Shoot\nGlistering Melon\n\n§dMilk\n\n§4Effects:\nSaturation
+erebus.book.smoothie.11=§9Bryuf's Brew\n\n§0Terpsishroom\nTurnip\nCompound Eyes\nHeart Berries\n\n§dHoney\n§dBeetle Juice\n§dAnti-Venom\n§dMilk\n\n§4Effects:\nMighty Buffs
+erebus.book.smoothie.12=§9Melonade\n\n§0Melon Slice\n\n§dWater\n\n§4Effects:\nRefreshing
+erebus.book.smoothie.13=§9Sparkling Melonade\n\n§0Glistening Melon Slice\n\n§dWater\n\n§4Effects:\nSmall Regen
+erebus.book.smoothie.14=§9Antivenom Bambucket\n\n§0Bambucket\n\n§0Nettle Leaves x2\n\n§0Poison Glands x2\n\n§dBeetle Juice\n\n§4Effects:\nImmunity to Poison
+erebus.book.smoothie.15=§9Antivenom Bottle\n\n§0Glass Bottle\n\n§0Nettle Leaf\n\n§0Poison Gland\n\n§dBeetle Juice\n\n§4Effects:\nImmunity to Poison
+erebus.book.smoothie.16=§9Antivenom Bucket\n\n§0Bucket\n\n§0Nettle Leaves x2\n\n§0Poison Glands x2\n\n§dBeetle Juice\n\n§4Effects:\nFilled Bucket
 
 ################
 # Advancements #
