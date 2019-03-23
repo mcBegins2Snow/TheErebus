@@ -66,7 +66,7 @@ item.erebus.materials.bogmaw_root.name=沼泽鱼肚根
 item.erebus.materials.hydrofuge.name=去湿剂
 item.erebus.materials.water_repellent.name=祛湿剂
 item.erebus.materials.smoothie_glass.name=空冰沙玻璃
-item.erebus.materials.magma_crawler_eye.name=岩浆爬行者之眼
+item.erebus.materials.magma_crawler_eye.name=熔岩爬虫眼
 item.erebus.materials.stew_pot.name=炖锅
 item.erebus.materials.titan_stew.name=生的泰坦炖肉
 item.erebus.materials.force_key.name=钥匙
@@ -588,7 +588,7 @@ tile.erebus.insect_repellent.name=驱虫方块
 # Spawners
 tile.erebus.antlion_spawner.name=蚁狮刷怪笼
 tile.erebus.dragon_fly_spawner.name=蜻蜓刷怪笼
-tile.erebus.jumping_spider_spawner.name=跳跃蜘蛛刷怪笼
+tile.erebus.jumping_spider_spawner.name=跳蛛刷怪笼
 tile.erebus.spider_spawner.name=黄昏花皮蛛刷怪笼
 tile.erebus.tarantula_spawner.name=塔兰图拉毒蛛刷怪笼
 tile.erebus.wasp_spawner.name=黄蜂刷怪笼
