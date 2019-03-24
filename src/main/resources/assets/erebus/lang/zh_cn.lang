@@ -63,7 +63,7 @@ item.erebus.materials.umbergolem_claw.name=棕褐魔像的爪
 item.erebus.materials.umbergolem_legs.name=棕褐魔像的腿
 item.erebus.materials.jade_berries.name=玉莓
 item.erebus.materials.bogmaw_root.name=沼泽鱼肚根
-item.erebus.materials.hydrofuge.name=去湿剂
+item.erebus.materials.hydrofuge.name=防水剂
 item.erebus.materials.water_repellent.name=祛湿剂
 item.erebus.materials.smoothie_glass.name=空冰沙玻璃
 item.erebus.materials.magma_crawler_eye.name=熔岩爬虫眼
@@ -108,7 +108,7 @@ item.erebus.smoothie.seedy_goodness.name=充满善意的冰沙
 item.erebus.smoothie.givin_me_the_blues.name=悲哀冰沙
 item.erebus.smoothie.hot_hot_baby.name=火童冰沙
 item.erebus.smoothie.dont_meddle_with_the_nettle.name=不要碰荨麻冰沙
-item.erebus.smoothie.liquid_gold.name=黄金液冰沙
+item.erebus.smoothie.liquid_gold.name=液体黄金冰沙
 item.erebus.smoothie.bryufs_brew.name=布鲁夫的酿造冰沙
 
 # Armour, Weapons and Tools
@@ -728,7 +728,7 @@ entity.erebus.rhino_beetle.name=独角仙
 entity.erebus.worker_bee.name=工蜂
 entity.erebus.dragon_fly.name=蜻蜓
 entity.erebus.blood_snail.name=蜗牛
-entity.erebus.titan_beetle.name=提坦大天牛
+entity.erebus.titan_beetle.name=提坦天牛
 entity.erebus.bot_fly_larva.name=肤蝇幼虫
 entity.erebus.fungal_weevil.name=真菌象鼻虫
 entity.erebus.crop_weevil.name=农害象鼻虫
@@ -875,8 +875,8 @@ erebus.book.smoothie.8=§9火童\n\n§0火焰花 x2\n黄蜂蜇针\n沼泽鱼肚�
 erebus.book.smoothie.9=§9不要碰荨麻\n\n§0荨麻叶\n荨麻花\n玉莓\n外骨骼\n\n§d蜂蜜\n\n§4效果：\n抗性提升
 erebus.book.smoothie.10=§9液体黄金\n\n§0生命之血 x2\n竹笋\n闪烁的西瓜\n\n§d牛奶\n\n§4效果：\n饱和
 erebus.book.smoothie.11=§9布鲁夫的酿造\n\n§0白蚁菇\n芜菁\n复眼\n心莓\n\n§d蜂蜜\n§d甲虫汁液\n§d抗毒药\n§d牛奶\n\n§4效果：\n巨大的效果
-erebus.book.smoothie.12=§9甜瓜\n\n§0西瓜片\n\n§d水\n\n§4效果：\n提神
-erebus.book.smoothie.13=§9闪烁的甜瓜\n\n§0闪烁的西瓜片\n\n§d水\n\n§4效果：\n小生命恢复
+erebus.book.smoothie.12=§9西瓜汽水\n\n§0西瓜片\n\n§d水\n\n§4效果：\n提神
+erebus.book.smoothie.13=§9充满气泡的西瓜汽水\n\n§0闪烁的西瓜片\n\n§d水\n\n§4效果：\n小生命恢复
 erebus.book.smoothie.14=§9竹抗毒药桶\n\n§0竹桶\n§0荨麻叶 x2\n§0毒腺 x2\n\n§d甲虫汁液\n\n§4效果：\n免疫中毒
 erebus.book.smoothie.15=§9抗毒药瓶\n\n§0玻璃瓶\n§0荨麻叶\n§0毒腺\n\n§d甲虫汁液\n\n§4效果：\n免疫中毒
 erebus.book.smoothie.16=§9抗毒药桶\n\n§0桶\n§0荨麻叶 x2\n§0毒腺 x2\n\n§d甲虫汁液\n\n§4效果：\n填满桶
@@ -929,7 +929,7 @@ advancement.erebus.exploration.beetledrink=倒上，喝掉
 advancement.erebus.exploration.beetledrink.desc=喝下一整竹桶的甲虫汁液。是的，你说得对。
 
 advancement.erebus.exploration.titan_beetle=提坦之战
-advancement.erebus.exploration.titan_beetle.desc=杀死提坦大天牛并获得它的肉。
+advancement.erebus.exploration.titan_beetle.desc=杀死提坦天牛并获得它的肉。
 advancement.erebus.exploration.titan_stew=いただきます（我要开动了）
 advancement.erebus.exploration.titan_stew.desc=给自己做些提坦天牛煲，这是你吃过的最有营养的一餐。
 
@@ -957,7 +957,7 @@ advancement.erebus.exploration.stung=荆棘在他身边的男孩
 advancement.erebus.exploration.stung.desc=被黄蜂或蝎子叮了一下。
 
 advancement.erebus.exploration.water_repellent=为什么这么疏水，偏执狂？
-advancement.erebus.exploration.water_repellent.desc=获得一些去湿剂以制作祛湿剂。
+advancement.erebus.exploration.water_repellent.desc=获得一些防水剂以制作祛湿剂。
 advancement.erebus.exploration.water_striders=私人耶稣
 advancement.erebus.exploration.water_striders.desc=制作凌波微步之靴。
 
